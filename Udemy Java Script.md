@@ -5,8 +5,12 @@
 ## Null
 ## Undefined
 # [数値](https://qiita.com/fyui001/items/c6ee29fdaed45870f12d)
-## [NaN]()
-# []()
+## [演算子一覧](https://qiita.com/white_tiger/items/bc3242dae2155f73ccbe)
+## [NaN](https://qiita.com/marioncobretti/items/40f992c88345e98a65f6)
+*** 
+# [typeof](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/typeof)
+***
+# 
 # []()
 # []()
 # []()
