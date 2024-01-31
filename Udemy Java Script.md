@@ -1,5 +1,10 @@
-# []()
-# []()
+# [プリミティブ型]()
+## Number
+## String
+## Boolean
+## Null
+## Undefined
+# [数値](https://qiita.com/fyui001/items/c6ee29fdaed45870f12d)
 # []()
 # []()
 # []()
