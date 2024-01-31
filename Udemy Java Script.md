@@ -10,9 +10,9 @@
 *** 
 # [typeof](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/typeof)
 ***
-# 
-# []()
-# []()
+# [変数宣言](https://qiita.com/andota05/items/238ff472a0e711b65275)
+## [代入演算子](https://web-engineer-wiki.com/javascript/assignment-operator/)
+## [インクリメント：デクリメント演算子](https://tcd-theme.com/2022/01/javascript-increment-decrement.html)
 # []()
 # []()
 # []()
