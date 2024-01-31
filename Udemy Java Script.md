@@ -1,11 +1,11 @@
-# [プリミティブ型]()
+# [プリミティブ型](https://zenn.dev/hogeisfuga/articles/db8a14a19f91ce)
 ## Number
 ## String
 ## Boolean
 ## Null
 ## Undefined
 # [数値](https://qiita.com/fyui001/items/c6ee29fdaed45870f12d)
-# []()
+## [NaN]()
 # []()
 # []()
 # []()
