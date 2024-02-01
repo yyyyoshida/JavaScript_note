@@ -51,8 +51,8 @@
 ***
 # [条件分岐](https://jsprimer.net/basic/condition/)
 ## [if文のネスト](https://tagnote.net/javascript/if-js/#f)
-# []()
-# []()
+## [truthy](https://qiita.com/kim_t0814/items/1b6a8042ddd2768b41cd)
+## [falsy](https://qiita.com/kim_t0814/items/1b6a8042ddd2768b41cd)
 # []()
 # []()
 # []()
