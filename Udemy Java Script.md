@@ -57,7 +57,7 @@
 ## [AND演算子( && )](https://jp-seemore.com/web/4336/)
 ## [OR演算子( || )](https://jp-seemore.com/web/4336/)
 ## [NOT演算子(！)](https://jp-seemore.com/web/4336/)
-# []()
+# [switch文](https://camp.trainocate.co.jp/magazine/javascript-switch/)
 # []()
 # []()
 # []()
