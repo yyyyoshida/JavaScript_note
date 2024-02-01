@@ -34,7 +34,11 @@
 # [Math.floor](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
 # [Math.ceil](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 # [Math.random](https://codelikes.com/javascript-random/)
-# []()
+# [Math.round](https://itsakura.com/javascript-round)
+## まだほかにもいっぱいある
+***
+***
+# 条件分岐
 # []()
 # []()
 # []()
