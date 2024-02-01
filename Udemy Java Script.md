@@ -18,9 +18,10 @@
 # [Boolean](https://tcd-theme.com/2022/02/javascript-boolean.html)
 ***
 # [String](https://tcd-theme.com/2022/02/javascript-string.html)
-# []()
-# []()
-# []()
+## プロパティ [String: length](https://www.javadrive.jp/javascript/string/index6.html)
+## [メソッド](https://qiita.com/e99h2121/items/79d6d4db9182c8c9540d)
+## [.toUpperCase()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+## [.toLowCase()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 # []()
 # []()
 # []()
