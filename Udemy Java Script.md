@@ -54,9 +54,9 @@
 ## [truthy](https://qiita.com/kim_t0814/items/1b6a8042ddd2768b41cd)
 ## [falsy](https://qiita.com/kim_t0814/items/1b6a8042ddd2768b41cd)
 ## 論理演算子
-## [AND演算子( && )]()
-## [OR演算子( || )]()
-## [NOT演算子(！)]()
+## [AND演算子( && )](https://jp-seemore.com/web/4336/)
+## [OR演算子( || )](https://jp-seemore.com/web/4336/)
+## [NOT演算子(！)](https://jp-seemore.com/web/4336/)
 # []()
 # []()
 # []()
