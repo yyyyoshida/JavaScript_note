@@ -42,15 +42,15 @@
 ## まだほかにもいっぱいある
 ***
 ***
-# 条件分岐
-## [比較演算子](https://tcd-theme.com/2022/03/javascript-comparisonoperator.html)
+# [比較演算子](https://tcd-theme.com/2022/03/javascript-comparisonoperator.html)
 ## console.warn()
 ## console.error()
 ## alert()
 ## [prompt()](https://magazine.techacademy.jp/magazine/5488#ta-toc-2)
-# [parseInt()](https://itsakura.com/javascript-parseint)
+## [parseInt()](https://itsakura.com/javascript-parseint)
+***
 # [条件分岐](https://jsprimer.net/basic/condition/)
-# []()
+## [if文のネスト](https://tagnote.net/javascript/if-js/#f)
 # []()
 # []()
 # []()
