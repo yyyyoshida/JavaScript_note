@@ -29,8 +29,11 @@
 ## [slice()](https://commte.net/nextjs-slice-method)
 ## [replace()](https://commte.net/nextjs-replace-method)
 ## [repeat()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
+***
 # [テンプレートリテラル](https://jp-seemore.com/web/3849/)
+***
 # [null と undefined](https://qiita.com/tkmd35/items/af80c884cfb034ed0e0f)
+***
 # [Math.floor](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
 # [Math.ceil](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 # [Math.trunc](https://www.javadrive.jp/javascript/math_class/index20.html)
