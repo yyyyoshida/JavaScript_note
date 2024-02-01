@@ -26,9 +26,9 @@
 ## [メソッドチェーン](https://jp-seemore.com/web/4157/)
 # Stringメソッドに引数を渡す
 ## [indexOf()](https://programmercollege.jp/column/7790/)
-## [slice()](https://https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
+## [slice()](https://commte.net/nextjs-slice-method)
 ## [replace()](https://commte.net/nextjs-replace-method)
-# []()
+# [repeat()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 # []()
 # []()
 # []()
