@@ -43,8 +43,11 @@
 ***
 ***
 # 条件分岐
-# []()
-# []()
+## [比較演算子](https://tcd-theme.com/2022/03/javascript-comparisonoperator.html)
+## console.warn()
+## console.error()
+## alert()
+## [prompt()](https://magazine.techacademy.jp/magazine/5488#ta-toc-2)
 # []()
 # []()
 # []()
