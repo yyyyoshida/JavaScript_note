@@ -30,7 +30,7 @@
 ## [replace()](https://commte.net/nextjs-replace-method)
 ## [repeat()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 # [テンプレートリテラル](https://jp-seemore.com/web/3849/)
-# [undefinedとnull](https://qiita.com/tkmd35/items/af80c884cfb034ed0e0f)
+# [null と undefined](https://qiita.com/tkmd35/items/af80c884cfb034ed0e0f)
 # []()
 # []()
 # []()
