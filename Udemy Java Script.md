@@ -67,7 +67,7 @@
 ## [.unshift()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 ## [.push()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 ## [.pop()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
-concat
+## [concat](https://jp-seemore.com/web/5015/)
 includes
 indexOf
 join
