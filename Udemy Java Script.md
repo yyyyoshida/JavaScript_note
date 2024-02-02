@@ -75,7 +75,7 @@ join
 ## [slice()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 ## [splice()](https://jp-seemore.com/web/5408/)
 ## [sort()](https://codelikes.com/javascript-sort/)
-# []()
+# [多次元配列](https://www.javadrive.jp/javascript/array/index5.html)
 # []()
 # []()
 # []()
