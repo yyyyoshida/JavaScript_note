@@ -65,8 +65,8 @@
 ## 配列メソッド
 ## [.push()](https://codelikes.com/javascript-array-add/)
 ## [.pop()](https://web-engineer-wiki.com/javascript/array-delete/#google_vignette)
-## [.shift()]()
-## [.unshift()]()
+## [.shift()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
+## [.unshift()](https://codelikes.com/javascript-array-add/)
 concat
 includes
 indexOf
