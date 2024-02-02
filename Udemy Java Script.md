@@ -67,8 +67,8 @@
 ## [.unshift()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 ## [.push()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 ## [.pop()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
-## [concat](https://jp-seemore.com/web/5015/)
-includes
+## [concat()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
+## [includes](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 indexOf
 join
 reverse
