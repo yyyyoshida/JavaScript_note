@@ -74,7 +74,7 @@ join
 ## [reverse](https://1-notes.com/javascript-array-reverse/)
 ## [slice](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 ## [splice](https://jp-seemore.com/web/5408/)
-sort
+## [sort](https://codelikes.com/javascript-sort/)
 # []()
 # []()
 # []()
