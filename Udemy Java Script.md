@@ -69,9 +69,9 @@
 ## [.pop()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 ## [concat()](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
 ## [includes](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
-indexOf
+## [indexOf](https://tcd-theme.com/2021/07/javascript-array-indexof-find-filter.html)
 join
-reverse
+## [reverse](https://1-notes.com/javascript-array-reverse/)
 slice
 splice
 sort
