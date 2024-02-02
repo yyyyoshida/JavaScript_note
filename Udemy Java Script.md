@@ -63,10 +63,10 @@
 ## [配列にアクセス](https://www.javadrive.jp/javascript/array/index3.html)
 ## [配列の更新](https://www.javadrive.jp/javascript/array/index3.html)
 ## 配列メソッド
-## [.push()](https://codelikes.com/javascript-array-add/)
-## [.pop()](https://web-engineer-wiki.com/javascript/array-delete/#google_vignette)
 ## [.shift()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
-## [.unshift()](https://codelikes.com/javascript-array-add/)
+## [.unshift()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
+## [.push()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
+## [.pop()](https://qiita.com/TMDM/items/968c2422e3284b15fc10)
 concat
 includes
 indexOf
