@@ -62,7 +62,19 @@
 # [配列](https://camp.trainocate.co.jp/magazine/javascript-array/)
 ## [配列にアクセス](https://www.javadrive.jp/javascript/array/index3.html)
 ## [配列の更新](https://www.javadrive.jp/javascript/array/index3.html)
-# []()
+## 配列メソッド
+## [.push()](https://codelikes.com/javascript-array-add/)
+## [.pop()](https://web-engineer-wiki.com/javascript/array-delete/#google_vignette)
+## [.shift()]()
+## [.unshift()]()
+concat
+includes
+indexOf
+join
+reverse
+slice
+splice
+sort
 # []()
 # []()
 # []()
