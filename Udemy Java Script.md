@@ -76,9 +76,10 @@ join
 ## [splice()](https://jp-seemore.com/web/5408/)
 ## [sort()](https://codelikes.com/javascript-sort/)
 ## [破壊的メソッドと非破壊メソッド](https://typescriptbook.jp/reference/values-types-variables/array/array-operations)
-# [多次元配列](https://www.javadrive.jp/javascript/array/index5.html)
-# []()
-# []()
+## [多次元配列](https://www.javadrive.jp/javascript/array/index5.html)
+***
+# [オブジェクト](https://www.pyxofy.com/javascript-object-basics/)
+## [オブジェクトリテラル](https://jp-seemore.com/web/4255/#toc8)
 # []()
 # []()
 # []()
