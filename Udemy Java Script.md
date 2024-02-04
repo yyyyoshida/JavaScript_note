@@ -80,7 +80,7 @@ join
 ***
 # [オブジェクト](https://www.pyxofy.com/javascript-object-basics/)
 ## [オブジェクトリテラル](https://jp-seemore.com/web/4255/#toc8)
-# []()
+## [ドット記法・ブラケット記法](https://qiita.com/TakanoriOkawa/items/7de0b158afa17ef2dae8)
 # []()
 # []()
 # []()
