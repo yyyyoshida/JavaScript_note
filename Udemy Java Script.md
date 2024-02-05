@@ -129,7 +129,34 @@ if (guess === 'q') {
 ## [Object.values()](https://jp-seemore.com/web/3582/#toc7)
 ## [Object.entries()](https://jp-seemore.com/web/3582/#toc8)
 ## [for in](https://qiita.com/a05kk/items/d6f49ca5bd15f045ea6c)
-## []()
+## Todoアプリ
+```php
+let input = prompt('コマンドを入力してください (new, list, delete, quit) ');
+const todos = ['水やりをする', '掃除をする'];
+while (input !== 'quit' && input !== 'q') {
+  if (input === 'list') {
+    console.log('********************');
+    for (let i = 0; i < todos.length; i++) {
+      console.log(`${i}: ${todos[i]}`);
+    }
+    console.log('********************');
+  } else if (input === 'new') {
+    const newTodo = prompt('新しいTodoを入力してください');
+    todos.push(newTodo);
+    console.log(`「${newTodo}」を追加しました`);
+  } else if (input === 'delete') {
+    const index = parseInt(prompt('削除するインデックスを入力してください'));
+    if (!Number.isNaN(index)) {
+      const deleted = todos.splice(index, 1);
+      console.log(`「${deleted[0]}」を削除しました`);
+    } else {
+      console.log('有効なインデックスを入力してください');
+    }
+  }
+  input = prompt('コマンドを入力してください (new, list, delete, quit) ');
+}
+console.log('アプリを終了しました');
+```
 ## []()
 ## []()
 ## []()
