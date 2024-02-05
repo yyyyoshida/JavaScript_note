@@ -85,7 +85,8 @@ join
 ## [オブジェクトの更新](https://fuuno.net/nani/nani13/nani13.html#edit)
 ## [配列 + オブジェクト１](https://qiita.com/Naughty1029/items/0edf4ffccb37a2b89583)
 ## [配列 + オブジェクト２](https://www.wakuwakubank.com/posts/464-javascript-array-object-pattern/)
-# []()
+***
+# [for文](https://zenn.dev/ojk/books/intro-to-javascript/viewer/js-loop)
 # []()
 # []()
 # []()
