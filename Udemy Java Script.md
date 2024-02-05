@@ -88,7 +88,7 @@ join
 ***
 # [for文](https://zenn.dev/ojk/books/intro-to-javascript/viewer/js-loop)
 ## [配列をループ](https://typescriptbook.jp/reference/values-types-variables/array/how-to-loop-an-array)
-## []()
+## [for文のネスト](https://www.s-gakuenblog.com/programming/javascript/js13/)
 ## []()
 ## []()
 ## []()
