@@ -125,10 +125,10 @@ if (guess === 'q') {
 ```
 ## [for of](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...of)
 ## オブジェクトから配列への変換
-## [object.keys()](https://jp-seemore.com/web/3582/#toc6)
-## [object.values()](https://jp-seemore.com/web/3582/#toc7)
-## [object.entries()](https://jp-seemore.com/web/3582/#toc8)
-## []()
+## [Object.keys()](https://jp-seemore.com/web/3582/#toc6)
+## [Object.values()](https://jp-seemore.com/web/3582/#toc7)
+## [Object.entries()](https://jp-seemore.com/web/3582/#toc8)
+## [for in](https://qiita.com/a05kk/items/d6f49ca5bd15f045ea6c)
 ## []()
 ## []()
 ## []()
