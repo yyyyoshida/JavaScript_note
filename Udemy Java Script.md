@@ -123,7 +123,7 @@ if (guess === 'q') {
 }
 
 ```
-## []()
+## [for of](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/for...of)
 ## []()
 ## []()
 ## []()
