@@ -160,7 +160,7 @@ console.log('アプリを終了しました');
 ***
 # [関数](https://tagnote.net/javascript/function/)
 ## [関数宣言](https://tcd-theme.com/2021/06/javascript-function-difference-declaration-expressions.html)
-## []()
+## [引数](https://tcd-theme.com/2022/04/javascript-function-parameter-argument.html)
 ## []()
 # []()
 # []()
