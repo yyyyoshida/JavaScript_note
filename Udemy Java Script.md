@@ -166,7 +166,7 @@ console.log('アプリを終了しました');
 ## [スコープ](https://qiita.com/andota05/items/1233b147f4f96bd53646)
 ## [関数スコープ](https://qiita.com/andota05/items/1233b147f4f96bd53646)
 ## [ブロックスコープ](https://qiita.com/andota05/items/1233b147f4f96bd53646)
-## []()
+## [レキシカルスコープ](https://allegretto-works.com/js/995/#index_id10)
 ## []()
 ## []()
 ## []()
