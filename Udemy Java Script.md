@@ -157,8 +157,9 @@ while (input !== 'quit' && input !== 'q') {
 }
 console.log('アプリを終了しました');
 ```
-## []()
-## []()
+***
+# [関数](https://tagnote.net/javascript/function/)
+## [関数宣言](https://qiita.com/gone0021/items/0ebd261ec22c2de6289e)
 ## []()
 ## []()
 # []()
