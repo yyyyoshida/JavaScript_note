@@ -174,7 +174,7 @@ console.log('アプリを終了しました');
 ## [関数式と無名関数の違い２](https://zenn.dev/horitomo/articles/4fd98cf4156ccf#%E9%96%A2%E6%95%B0%E5%AE%A3%E8%A8%80%E3%81%A8%E9%96%A2%E6%95%B0%E5%BC%8F%E3%81%AE%E9%81%95%E3%81%84)
 ## [高階関数：説明１](https://zenn.dev/jboy_blog/articles/e5d20e2875aa55)
 ## [高階関数：説明２](https://qiita.com/dai4869/items/870dcabd1be7bf914e3b)
-## []()
+## [公開関数：説明３](https://web-engineer-wiki.com/javascript/callback/)
 ## []()
 ## []()
 ## []()
