@@ -193,9 +193,9 @@ const isAdult = makeBetweenFunc(19, 64);
 const isSenior = makeBetweenFunc(65, 120);
 
 ```
-## []()
-## []()
-## []()
+## [メソッドと関数の違い](https://maaengineerhouse.com/archives/1130)
+## [メソッドの省略系](https://morning-6.hatenablog.com/entry/2021/10/25/105126)
+## [メソッドの中のthis]()
 ## []()
 ## []()
 
