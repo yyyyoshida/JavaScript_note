@@ -195,7 +195,8 @@ const isSenior = makeBetweenFunc(65, 120);
 ```
 ## [メソッドと関数の違い](https://maaengineerhouse.com/archives/1130)
 ## [メソッドの省略系](https://morning-6.hatenablog.com/entry/2021/10/25/105126)
-## [メソッドの中のthis](https://www.tam-tam.co.jp/tipsnote/javascript/post17735.html)
+## [メソッドの中のthis１](https://asameshicode.com/javascript-this/)
+## [メソッドの中のthis２](https://www.tam-tam.co.jp/tipsnote/javascript/post17735.html)
 ## []()
 ## []()
 
