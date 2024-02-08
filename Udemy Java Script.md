@@ -204,7 +204,7 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [forEach()２](https://camp.trainocate.co.jp/magazine/javascript-foreach/)
 ## [map()](https://qiita.com/NNNiNiNNN/items/3743ce6db31a421d88d0)
 ## [アロー関数](https://tcd-theme.com/2022/04/javascript-arrow-function-basic.html)
-## [アロー関数の省略記法](https://zenn.dev/syus_study/articles/becc681ce52a4b)
+## [アロー関数の省略記法](https://qiita.com/deBroglieeeen/items/f146afd1cdf1e89c4121)
 ## []()
 ## []()
 ## []()
