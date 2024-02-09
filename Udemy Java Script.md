@@ -198,6 +198,8 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [メソッドの中のthis１](https://asameshicode.com/javascript-this/)
 ## [メソッドの中のthis２](https://www.tam-tam.co.jp/tipsnote/javascript/post17735.html)
 ## [tryとcatch](https://zenn.dev/harryduck/articles/05a0ff1b501fd1)
+***
+# 配列のコールバック関数を使ったメソッド
 ## [コールバック関数１](https://web-engineer-wiki.com/javascript/callback/)
 ## [コールバック関数２](https://tcd-theme.com/2022/04/javascript-callback-function.html)
 ## [forEach()１](https://www.javadrive.jp/javascript/array/index10.html)
@@ -207,7 +209,7 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [アロー関数の省略記法](https://qiita.com/deBroglieeeen/items/f146afd1cdf1e89c4121)
 ## [setTimeout()](https://qiita.com/nuko-suke/items/5b16ab9de402547c5797)
 ## [setInterval()](https://zenn.dev/kumaaa1212/articles/926d56ed62dcfd)
-## []()
+## [filter()](https://zenn.dev/fijii_rin/articles/34016e4e6aa4d0)
 ## []()
 ## []()
 ## []()
