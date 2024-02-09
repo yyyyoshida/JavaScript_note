@@ -279,3 +279,28 @@ const isSenior = makeBetweenFunc(65, 120);
 # []()
 # []()
 # []()
+提供されたコードは、`validUserNames`関数を呼び出しているものの、結果がコンソールに出力されていません。JavaScriptのコードは、デフォルトでは関数が呼び出された場合に戻り値を表示するわけではないため、コンソールに何も表示されません。
+
+正しく結果をコンソールに表示するためには、`console.log`を使用して関数の戻り値をコンソールに出力する必要があります。
+
+修正されたコードは以下の通りです：
+
+```javascript
+function validUserNames(names) {
+    const validNames = names.filter((name) => name.length < 10);
+    return validNames;
+}
+
+// 関数を呼び出し、結果をコンソールに表示
+const result = validUserNames([
+    'tanaka',
+    'suzuki1979',
+    'q29832128238983',
+    'hogemoge',
+    'kimetsu',
+]);
+
+console.log(result);
+```
+
+このようにすることで、`result`には`['tanaka', 'suzuki1979', 'hogemoge', 'kimetsu']`が格納され、それがコンソールに表示されます。
