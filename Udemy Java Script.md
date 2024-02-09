@@ -217,7 +217,6 @@ const isSenior = makeBetweenFunc(65, 120);
 ## []()
 ## []()
 ## []()
-
 ## []()
 ## []()
 ## []()
@@ -225,7 +224,6 @@ const isSenior = makeBetweenFunc(65, 120);
 ## []()
 ## []()
 ## []()
-
 ## []()
 ## []()
 ## []()
