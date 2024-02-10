@@ -210,7 +210,7 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [setTimeout()](https://qiita.com/nuko-suke/items/5b16ab9de402547c5797)
 ## [setInterval()](https://zenn.dev/kumaaa1212/articles/926d56ed62dcfd)
 ## [filter()](https://zenn.dev/fijii_rin/articles/34016e4e6aa4d0)
-## []()
+## [every()とsome()](https://qiita.com/i_am_master_yoda/items/224ff73443b4566ec8e8)
 ## []()
 ## []()
 ## []()
