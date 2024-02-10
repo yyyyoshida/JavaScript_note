@@ -213,7 +213,7 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [every()とsome()１](https://qiita.com/i_am_master_yoda/items/224ff73443b4566ec8e8)
 ## [every()とsome()２](https://devsakaso.com/javascript-some-every-methods/)
 ## [reduce()](https://zenn.dev/kosuke_shopify/articles/95f784531c3c98)
-## [アロー関数のthis (未URL)]()
+## [アロー関数のthis]()未URL
 ## []()
 ## []()
 ## []()
