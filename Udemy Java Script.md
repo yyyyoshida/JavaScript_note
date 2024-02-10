@@ -214,7 +214,17 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [every()とsome()２](https://devsakaso.com/javascript-some-every-methods/)
 ## [reduce()](https://zenn.dev/kosuke_shopify/articles/95f784531c3c98)
 ## [アロー関数のthis]()未URL
-## []()
+***
+# モダンなJavaScriptの機能
+## デフォルト引数
+```php
+function add(num = 1) {
+  console.log(num + num);
+}
+add();
+add(5);
+
+```
 ## []()
 ## []()
 ## []()
