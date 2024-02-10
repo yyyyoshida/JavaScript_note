@@ -197,6 +197,7 @@ const isSenior = makeBetweenFunc(65, 120);
 ## [メソッドの省略系](https://morning-6.hatenablog.com/entry/2021/10/25/105126)
 ## [メソッドの中のthis１](https://asameshicode.com/javascript-this/)
 ## [メソッドの中のthis２](https://www.tam-tam.co.jp/tipsnote/javascript/post17735.html)
+## [this](https://jsprimer.net/basic/function-this/)
 ## [tryとcatch](https://zenn.dev/harryduck/articles/05a0ff1b501fd1)
 ***
 # 配列のコールバック関数を使ったメソッド
