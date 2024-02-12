@@ -227,7 +227,7 @@ add(5);
 
 ```
 ## [配列のスプレッド構文](https://typescriptbook.jp/reference/values-types-variables/array/spread-syntax-for-array)
-## [オブジェクトのスプレッド構文]()
+## [オブジェクトのスプレッド構文](https://beyondjapan.com/blog/2022/08/spread_syntax/#i-6)
 ## []()
 ## []()
 ## []()
