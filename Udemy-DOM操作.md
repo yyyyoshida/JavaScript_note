@@ -1,11 +1,11 @@
 # DOM
 ## [DOMとは](https://qiita.com/vagary/items/289ee8921247d486d2cc)
 # 要素の取得
-## [getElementById](https://tech.mychma.com/javascript-getelementbyid/1506/)
-## [getElementsByTagName](https://tech.mychma.com/javascript-getelementsbytagname/1508/)
-## [getElementsByClassName](https://tech.mychma.com/javascript-getelementsbyclassname/1517/)
-
-## []()
+## [getElementById()](https://tech.mychma.com/javascript-getelementbyid/1506/)
+## [getElementsByTagName()](https://tech.mychma.com/javascript-getelementsbytagname/1508/)
+## [getElementsByClassName()](https://tech.mychma.com/javascript-getelementsbyclassname/1517/)
+## [quearySelector()](https://tcd-theme.com/2022/07/javascript-dom-queryselector.html)
+## [querySelectorALL()](https://tcd-theme.com/2022/07/javascript-dom-queryselector.html)
 ## []()
 ## []()
 ## []()
