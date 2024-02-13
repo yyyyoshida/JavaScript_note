@@ -226,11 +226,12 @@ add();
 add(5);
 
 ```
-## [配列のスプレッド構文](https://beyondjapan.com/blog/2022/08/spread_syntax/#i-2)
-## [オブジェクトのスプレッド構文](https://beyondjapan.com/blog/2022/08/spread_syntax/#i-6)
-## []()
-## []()
-## []()
+## [関数：スプレッド構文](https://jp-seemore.com/web/3714/#toc7)
+## [配列：スプレッド構文](https://beyondjapan.com/blog/2022/08/spread_syntax/#i-2)
+## [オブジェクト：スプレッド構文](https://beyondjapan.com/blog/2022/08/spread_syntax/#i-6)
+## [レスト構文（残余引数）](https://jp-seemore.com/web/4511/)
+## [分割代入](https://qiita.com/kamijodev/items/ca007a264a3a0f1d1c8b)
+## [配列・オブジェクトの分割代入](https://zenn.dev/goldsaya/articles/f5135a4eae09fe)
 ## []()
 ## []()
 ## []()
