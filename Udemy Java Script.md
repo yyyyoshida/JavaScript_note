@@ -233,7 +233,7 @@ add(5);
 ## [分割代入](https://qiita.com/kamijodev/items/ca007a264a3a0f1d1c8b)
 ## [配列・オブジェクトの分割代入](https://zenn.dev/goldsaya/articles/f5135a4eae09fe)
 ## [デフォルト値](https://www.wakuwakubank.com/posts/461-javascript-destructuring-assignment/#index_id8)
-## []()
+## [パラメータの分割代入](https://zenn.dev/rabee/articles/javascript-destructuring-assignment-default-params)
 ## []()
 ## []()
 ## []()
