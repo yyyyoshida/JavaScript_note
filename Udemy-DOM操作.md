@@ -8,9 +8,9 @@
 ## [querySelectorALL()](https://wp-p.info/tpl_rep.php?cat=js-intermediate&fl=r4)
 # 要素の操作
 ## よく使うプロパティとメソッド
-## [innerText]()
-## [textContent]()
-## [innerHTML]()
+## [innerText](https://zenn.dev/rinasham/articles/e87999c2224d04)ページを含めて隠れている全部のテキストを取得
+## [textContent](https://zenn.dev/rinasham/articles/e87999c2224d04)ページで見えているテキストのみ取得
+## [innerHTML](https://zenn.dev/rinasham/articles/e87999c2224d04)要素の中身がHTMLを含めて取得
 ## []()
 ## []()
 ## []()
