@@ -1,5 +1,5 @@
 # DOM
-## [DOMとは](https://qiita.com/vagary/items/289ee8921247d486d2cc)
+## [DOMとは](https://pengi-n.co.jp/blog/js-dom/)
 # 要素の取得
 ## [getElementById()](https://tech.mychma.com/javascript-getelementbyid/1506/)
 ## [getElementsByTagName()](https://tech.mychma.com/javascript-getelementsbytagname/1508/)
