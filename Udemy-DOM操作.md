@@ -17,6 +17,7 @@
 ## [setsAttribute()１](https://itsakura.com/js-getattribute#s2)
 ## [setsAttribute()２](https://zenn.dev/ankouh/books/javascript-dom/viewer/b412c3)
 # スタイルの変更
+## [.getComputedStyle()]()
 ## [style](https://www.cfxlog.com/javascript-dom/#rtoc-11)
 ## [クラスの操作](https://zenn.dev/ankouh/books/javascript-dom/viewer/b412c4)
 ## [classList.add()](https://www.cfxlog.com/javascript-dom/#rtoc-27)
