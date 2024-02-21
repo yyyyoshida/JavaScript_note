@@ -24,14 +24,21 @@
 ## [classList.remove()](https://www.cfxlog.com/javascript-dom/#rtoc-27)
 ## [classList.contains()](https://www.cfxlog.com/javascript-dom/#rtoc-27)
 ## [classList.toggle()](https://www.cfxlog.com/javascript-dom/#rtoc-27)
+*** 
 # 親・子・兄弟要素
-## [parentElement]()
-## [children]()
-## [nextSibling]()
-## [nextElementSibling]()
-## [previousSibling]()
-## [previousElementSibling]()
-## 要素を作る
+## 親要素
+### [parentElement](https://web-tsuku.life/parentelement-get-parent/)
+## 子要素
+### [children](https://webstyle.work/javascript-children/)
+## 兄弟要素
+## 次の要素を返す
+### [nextSibling](https://mebee.info/2021/01/11/post-27809/) nodeを返す。要素を返さない
+### [nextElementSibling]() 要素を返す。nodeを返さない
+## 手前の要素
+### [previousSibling]() nodeを返す。要素を返さない
+### [previousElementSibling]()要素を返す。nodeを返さない
+***
+# 要素を作る
 ## [createElement()](https://into-the-program.com/javascript-createelement/)
 ## [appendChild()](https://qiita.com/takuo_maeda/items/f531e7b5fe44c57242c3)
 ## []()
