@@ -40,8 +40,10 @@
 ***
 # 要素を作る
 ## [createElement()](https://into-the-program.com/javascript-createelement/)
+## 最後に追加
 ## [appendChild()](https://qiita.com/takuo_maeda/items/f531e7b5fe44c57242c3)
-## []()
+## [append()](https://zenn.dev/takumi/articles/883aa8631b365a)　文字列を直接渡せる
+## 先頭に追加
 ## []()
 ## []()
 ## []()
