@@ -45,7 +45,8 @@
 ## [append()](https://tridentwebdesign.blog.fc2.com/e/append_etc)　文字列を直接渡せる
 ## 先頭に追加
 ## [prepend()](https://tridentwebdesign.blog.fc2.com/e/append_etc)
-## []()
+## 兄弟要素として追加
+## [insertAdjacentElement()](https://developer.mozilla.org/ja/docs/Web/API/Element/insertAdjacentElement) 仮URL
 ## []()
 ## []()
 ## []()
