@@ -49,8 +49,9 @@
 ## [insertAdjacentElement()](https://developer.mozilla.org/ja/docs/Web/API/Element/insertAdjacentElement) 仮URL
 ## [after()](https://mebee.info/2021/01/15/post-27889/)
 ## [before()](https://mebee.info/2021/02/06/post-27881/)
-# 要素を削除
+## 要素を削除
 ## [remove()](https://developer.mozilla.org/ja/docs/Web/API/Element/remove)
+# DOMイベント
 ## []()
 ## []()
 ## []()
