@@ -114,15 +114,6 @@ function colorize() {
 ## [イベントオブジェクト](https://www.pyxofy.com/what-does-e-mean-in-javascript-function/)
 ## [キーボードイベント](https://qiita.com/nishimachikid/items/aca5b037af623e26929e)
 
-
-## [classList]()
-
-## [appendChild()]()
-## [append()]()
-## [prepend()]()
-## [removeChild()]()
-
-## [createElement]()
 ## []()
 ## []()
 ## []()
