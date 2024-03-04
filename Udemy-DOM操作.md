@@ -54,9 +54,9 @@
 # DOMイベント
 ## [clicks]()
 ## [マウスイベント](https://zenn.dev/mryhryki/articles/2022-10-06-mouse-events)
-## []()
-## []()
-## []()
+## [addEventListener()](https://qiita.com/mzmz__02/items/873118fbd8723c44956d)
+## [addEventListenerのイベント](https://and-ha.com/coding/js-addeventlistener/)
+## [第三引数](https://developer.mozilla.org/ja/docs/Web/API/EventTarget/addEventListener#options)
 ## []()
 ## []()
 ## []()
