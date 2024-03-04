@@ -58,7 +58,7 @@
 ## [addEventListenerのイベント](https://and-ha.com/coding/js-addeventlistener/)
 ## [第三引数](https://developer.mozilla.org/ja/docs/Web/API/EventTarget/addEventListener#options)
 ## [第三引数 例](https://tech.mychma.com/javascript-onceclick/1911/)
-## []()
+## [removeEventListener()](https://tech.mychma.com/javascript-removeeventlistener/1837/)
 ## []()
 ## []()
 
