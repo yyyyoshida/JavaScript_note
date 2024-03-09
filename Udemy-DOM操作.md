@@ -114,11 +114,15 @@ function colorize() {
 ## [イベントオブジェクト](https://www.pyxofy.com/what-does-e-mean-in-javascript-function/)
 ## [キーボードイベント](https://qiita.com/nishimachikid/items/aca5b037af623e26929e)
 ## ページ全体に適応　window.addEventListener();
+# フォームは今は後回し
+```php
 # [フォームイベント]()
 ## [preventDefault()](https://qiita.com/yokoto/items/27c56ebc4b818167ef9e)
 ## [elements]()
-## []()
-## []()
+# [inputとchengeイベント]()
+```
+
+# [イベントのバブリング](https://www.zunouissiki.com/js-bubbling/)
 ## []()
 ## []()
 ## []()
